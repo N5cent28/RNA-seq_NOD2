@@ -1,0 +1,41 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Large data files that shouldn't be version controlled
+*.fastq
+*.sam
+*.bam
+*.fasta
+*.fa
+*.fna
+sratoolkit.3.2.0-mac-arm64/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo 
